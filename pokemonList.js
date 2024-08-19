@@ -150,7 +150,7 @@ const pokemonList = [
     set: "Volcarona @ Heavy-Duty Boots\nAbility: Flame Body\nEVs: 252 SpA / 4 SpD / 252 Spe\nTera Type: Ground\nTimid Nature\n- Quiver Dance\n- Fiery Dance\n- Tera Blast\n- Giga Drain",
     type1: "Bug",
     type2: "Fire",
-    tier: "Ubers",
+    tier: "OU",
     generation: "5",
     spl: "14",
   },
